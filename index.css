@@ -1,0 +1,36 @@
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 18px;
+}
+
+.margin-20 {
+    margin-bottom: 20px
+}
+
+.foto {
+    border-radius: 50%;
+    width: 100%;
+    max-width: 300px
+}
+
+.panel_default {
+    background-color: rgb(241, 241, 241);
+    border-color: rgb(249, 249, 249);
+}
+
+.sacramento {
+    font-family: 'Sacramento', cursive;
+}
+
+.monospace {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 13px;
+}
+
+.indie_flower {
+    font-family: 'Indie Flower', cursive;
+}
+
+.break_all {
+    word-break: break-all
+}
