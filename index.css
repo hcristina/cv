@@ -31,6 +31,6 @@ body {
     font-family: 'Indie Flower', cursive;
 }
 
-.break_all {
-    word-break: break-all
+.break_word {
+    word-break: break-word;
 }
